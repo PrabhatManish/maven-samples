@@ -3,5 +3,5 @@ Simple Maven Projects for testing
 
 This repository contains two small Maven projects intended as examples of how a Maven projects can be setup. 
 
-test webhook trigger for jenkins job.
+run jenkins job using webhook.
 
